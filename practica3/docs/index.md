@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+#Projecte Prova: Documentació Oficial
+**Benvingut a la documentació del projecte prova. Aquest lloc web ha estat gene>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+##Descripció del Projecte
+Aquest projecte té com a objectiu establir una base de coneixement compartida i>
 
-## Commands
+Característiques principals:
+Markdown Nativa: Tota la documentació s'escriu en fitxers .md simples.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Velocitat: Generació de llocs estàtics ultra-ràpida.
 
-## Project layout
+Desplegament automàtic: Integració amb GitHub Pages mitjançant el comando gh-de>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+##Instal·lació i Configuració
+Per poder treballar en aquest projecte localment, necessites tenir instal·lat P>
